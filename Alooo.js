@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let selectedGame = null;
 
-    sourceCode.addEventListener('click', () => {
+    Telegram .addEventListener('click', () => {
         window.open('https://t.me/airdropshunter90m', '_blank');
     });
     
